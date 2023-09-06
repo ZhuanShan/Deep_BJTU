@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../using_tips"
+		},
+		{
+			"path": "../pytorch_learning"
+		}
+	],
+	"settings": {}
+}
